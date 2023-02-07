@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactTS/static/css/main.8cf1cb7f.css",
-    "main.js": "/ReactTS/static/js/main.f03d372c.js",
+    "main.css": "/ReactTS/static/css/main.31c6151c.css",
+    "main.js": "/ReactTS/static/js/main.e60d227b.js",
     "static/media/4.jpg": "/ReactTS/static/media/4.b875e58f35136e1359a7.jpg",
     "static/media/5.jpg": "/ReactTS/static/media/5.a6e62c6415ce66864ca6.jpg",
     "static/media/2.jpg": "/ReactTS/static/media/2.55a5209ee6a1e9e88a45.jpg",
@@ -29,11 +29,11 @@
     "static/media/password.jpg": "/ReactTS/static/media/password.641a4e3dd58af629f55e.jpg",
     "static/media/Pure-CSS-Scroll-Animation-Arrow.gif": "/ReactTS/static/media/Pure-CSS-Scroll-Animation-Arrow.5d84494b5691d17e052a.gif",
     "index.html": "/ReactTS/index.html",
-    "main.8cf1cb7f.css.map": "/ReactTS/static/css/main.8cf1cb7f.css.map",
-    "main.f03d372c.js.map": "/ReactTS/static/js/main.f03d372c.js.map"
+    "main.31c6151c.css.map": "/ReactTS/static/css/main.31c6151c.css.map",
+    "main.e60d227b.js.map": "/ReactTS/static/js/main.e60d227b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cf1cb7f.css",
-    "static/js/main.f03d372c.js"
+    "static/css/main.31c6151c.css",
+    "static/js/main.e60d227b.js"
   ]
 }
