@@ -1,26 +1,39 @@
 {
   "files": {
     "main.css": "/ReactTS/static/css/main.8cf1cb7f.css",
-    "main.js": "/ReactTS/static/js/main.1ffff1e9.js",
-    "static/media/IMG_20210815_074108.jpg": "/ReactTS/static/media/IMG_20210815_074108.3a13b2fb544d59f04479.jpg",
-    "static/media/IMG_20210622_180546.jpg": "/ReactTS/static/media/IMG_20210622_180546.7f3a04bad685f31c2fad.jpg",
-    "static/media/IMG_20210322_230652.jpg": "/ReactTS/static/media/IMG_20210322_230652.b8343a36f5f7d6f3613c.jpg",
-    "static/media/IMG_20201103_235155.jpg": "/ReactTS/static/media/IMG_20201103_235155.eaf8e10820cd9c966f7b.jpg",
-    "static/media/IMG_20201214_195755.jpg": "/ReactTS/static/media/IMG_20201214_195755.59e257c280e804e9cd91.jpg",
-    "static/media/IMG_20210914_012747.jpg": "/ReactTS/static/media/IMG_20210914_012747.e05e989ac0d9c20bccf8.jpg",
-    "static/media/IMG_20210802_120958.jpg": "/ReactTS/static/media/IMG_20210802_120958.b1cb47903f05614f3c01.jpg",
-    "static/media/IMG_20200903_174536.jpg": "/ReactTS/static/media/IMG_20200903_174536.2b7757eba6248085cf0f.jpg",
-    "static/media/IMG_20201012_214024.jpg": "/ReactTS/static/media/IMG_20201012_214024.c6ec52da945891936eef.jpg",
-    "static/media/IMG_20200829_193837.jpg": "/ReactTS/static/media/IMG_20200829_193837.8c655f138ba42bfdfd86.jpg",
-    "static/media/IMG_20210928_221440.jpg": "/ReactTS/static/media/IMG_20210928_221440.549332730fb28c1c2dd5.jpg",
+    "main.js": "/ReactTS/static/js/main.b52ce49f.js",
+    "static/media/4.jpg": "/ReactTS/static/media/4.b875e58f35136e1359a7.jpg",
+    "static/media/5.jpg": "/ReactTS/static/media/5.a6e62c6415ce66864ca6.jpg",
+    "static/media/2.jpg": "/ReactTS/static/media/2.55a5209ee6a1e9e88a45.jpg",
+    "static/media/8.jpg": "/ReactTS/static/media/8.c60764d8481e193095ca.jpg",
+    "static/media/3.jpg": "/ReactTS/static/media/3.32dcdfce1e146e250593.jpg",
+    "static/media/19.jpg": "/ReactTS/static/media/19.3a13b2fb544d59f04479.jpg",
+    "static/media/17.jpg": "/ReactTS/static/media/17.7f3a04bad685f31c2fad.jpg",
+    "static/media/6.jpg": "/ReactTS/static/media/6.9d1f679ad9962a4d9606.jpg",
+    "static/media/9.jpg": "/ReactTS/static/media/9.271cd5d66efc34ba4628.jpg",
+    "static/media/7.jpg": "/ReactTS/static/media/7.4be6eb1a03ee753f7afa.jpg",
+    "static/media/16.jpg": "/ReactTS/static/media/16.b8343a36f5f7d6f3613c.jpg",
+    "static/media/22.jpg": "/ReactTS/static/media/22.296e9a0559069954af91.jpg",
+    "static/media/1.jpg": "/ReactTS/static/media/1.dc43fb7a3b99bcac3ffe.jpg",
+    "static/media/14.jpg": "/ReactTS/static/media/14.eaf8e10820cd9c966f7b.jpg",
+    "static/media/20.jpg": "/ReactTS/static/media/20.e05e989ac0d9c20bccf8.jpg",
+    "static/media/18.jpg": "/ReactTS/static/media/18.b1cb47903f05614f3c01.jpg",
+    "static/media/12.jpg": "/ReactTS/static/media/12.2b7757eba6248085cf0f.jpg",
+    "static/media/13.jpg": "/ReactTS/static/media/13.c6ec52da945891936eef.jpg",
+    "static/media/11.jpg": "/ReactTS/static/media/11.8c655f138ba42bfdfd86.jpg",
+    "static/media/21.jpg": "/ReactTS/static/media/21.549332730fb28c1c2dd5.jpg",
+    "static/media/24.jpg": "/ReactTS/static/media/24.99c2b3b921df80d85292.jpg",
+    "static/media/10.jpg": "/ReactTS/static/media/10.9f9bbf02034589be704a.jpg",
+    "static/media/25.jpg": "/ReactTS/static/media/25.37ed02e607b90b67f109.jpg",
+    "static/media/26.jpg": "/ReactTS/static/media/26.ad0cd8f3344c0a4aeda5.jpg",
     "static/media/password.jpg": "/ReactTS/static/media/password.641a4e3dd58af629f55e.jpg",
     "static/media/Pure-CSS-Scroll-Animation-Arrow.gif": "/ReactTS/static/media/Pure-CSS-Scroll-Animation-Arrow.5d84494b5691d17e052a.gif",
     "index.html": "/ReactTS/index.html",
     "main.8cf1cb7f.css.map": "/ReactTS/static/css/main.8cf1cb7f.css.map",
-    "main.1ffff1e9.js.map": "/ReactTS/static/js/main.1ffff1e9.js.map"
+    "main.b52ce49f.js.map": "/ReactTS/static/js/main.b52ce49f.js.map"
   },
   "entrypoints": [
     "static/css/main.8cf1cb7f.css",
-    "static/js/main.1ffff1e9.js"
+    "static/js/main.b52ce49f.js"
   ]
 }
